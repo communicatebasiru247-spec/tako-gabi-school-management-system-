@@ -1,4 +1,4 @@
-# Tako Gabi School Management System
+# tako gabi school management system 
 
 A modern school management portal for
 Tako Gabi Nursery, Primary and Secondary School, Lafiagi.
